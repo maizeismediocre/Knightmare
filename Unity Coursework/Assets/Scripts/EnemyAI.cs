@@ -61,7 +61,7 @@ public class EnemyAI : MonoBehaviour
 
 
 
-        // If Hammer Warrior is in start state, patrol waypoints
+        // If guard is in start state, patrol waypoints
         else if (asi.IsName("Patrol"))
         {
             na.speed = 3;
