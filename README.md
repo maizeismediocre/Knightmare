@@ -18,7 +18,7 @@ https://souptonic.itch.io/souptonic-sfx-pack-1-ui-sounds
 
 https://jalastram.itch.io/500-sound-effects
 
-enemy- Castle\_Guard\_01 from https://www.mixamo.com/#/
+enemy- Castle\_Guard\_01  and animations from https://www.mixamo.com/#/
 
 music-https://www.youtube.com/watch?v=64R-10xNfmk
 
