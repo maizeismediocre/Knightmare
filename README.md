@@ -14,7 +14,7 @@ sounds- https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-soun
 
 https://assetstore.unity.com/packages/audio/sound-fx/doors-small-sound-pack-262071
 
-https://souptonic.itch.io/souptonic-sfx-pack-1-ui-sounds
+https://souptonic.itch.io/souptonic-sfx-pack-1-ui-sounds (licensed under CC BY 4.0.)
 
 https://jalastram.itch.io/500-sound-effects
 
