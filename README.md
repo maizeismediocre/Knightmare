@@ -20,7 +20,7 @@ https://jalastram.itch.io/500-sound-effects
 
 enemy- Castle\_Guard\_01  and animations from https://www.mixamo.com/#/
 
-music-https://www.youtube.com/watch?v=64R-10xNfmk
+
 
 textures-https://assetstore.unity.com/packages/2d/textures-materials/brick/p3d-outdoor-wall-tile-texture-pack-lr-247739
 
@@ -40,5 +40,5 @@ trees-https://assetstore.unity.com/packages/3d/environments/landscapes/mountain-
 
 font- https://www.dafont.com/vermin-vibes-1989.font
 
-rush music- https://www.youtube.com/watch?v=tkLVbp0IH\_E
+
 
